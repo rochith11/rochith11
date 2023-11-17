@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building a simple repo for myself**
 
-<h3 align="left">Connect with me: Linkedin :Rochith S Phutane</h3>
+<h3 align="left">Connect with me: Linkedin: Rochith S Phutane</h3>
 <p align="left">
 <a href="https://instagram.com/ra._.hu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ra._.hu" height="30" width="40" /></a>
 </p>
