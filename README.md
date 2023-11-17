@@ -1,4 +1,4 @@
-[github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 <h1 align="center">Hi 👋, I'm Rochith Phutane</h1>
 <h3 align="center">I am a student at Bangalore Institute of Technology</h3>
 
