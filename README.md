@@ -1,9 +1,124 @@
-Hello there! I'm Rochith S Phutane 👋<p align="center"><a href="https://www.google.com/search?q=https://github.com/rochith-phutane"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drochith11%26show_icons%3Dtrue%26theme%3Ddracula%26count_private%3Dtrue" alt="Rochith's GitHub Stats" /><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Drochith11%26theme%3Ddracula" alt="Rochith's GitHub Streak" /></a></p><picture><img src = "https://www.google.com/search?q=https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif%3Fraw%3Dtrue" width = 50px></picture> About MeI'm a Computer Science student from Bangalore, India, passionate about building things for the web and exploring the frontiers of Artificial Intelligence. I see code as a tool for creative problem-solving and I'm on a journey to build efficient, scalable, and intelligent applications.{
-  "pronouns": "He/Him",
-  "location": "Bengaluru, India",
-  "currentlyLearning": ["Advanced Docker concepts", "Generative AI"],
-  "askMeAbout": ["Full-Stack Development", "Machine Learning Models", "Data Structures"],
-  "goals": ["Contribute to open-source projects", "Build a SaaS product"],
-  "funFact": "I believe every complex problem has an elegant, simple solution... and I enjoy the challenge of finding it! 😉"
-}
-💻 My Tech StackHere are some of the technologies I've been working with recently:Languages:<p><img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dblack" alt="C"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/></p>AI/ML Frameworks & Libraries:<p><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="Scikit-learn"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/Matplotlib-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dmatplotlib%26logoColor%3Dwhite" alt="Matplotlib"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/Seaborn-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dseaborn%26logoColor%3Dwhite" alt="Seaborn"/></p>Web Development Frameworks & Libraries:<p><img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express.js"/></p>Databases & Tools:<p><img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="VS Code"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></p>📫 Get In Touch<p align="left"><a href="https://www.linkedin.com/in/rochith-s-phutane-919112297/" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="Rochith Phutane"/></a><a href="mailto:rochith.s.phutane10@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rochith.s.phutane10@gmail.com"/></a></p>
+<h1 align="center">Hi 👋, I'm Rochith S Phutane</h1>
+<h3 align="center">AI/ML Enthusiast | Full-Stack Developer | CSE Undergrad</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+in+progress...;CSE+Undergrad+%7C+Open+Source+Contributor;Lifelong+Learner+%7C+Hackathon+Fan+%F0%9F%A4%96" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 CSE Undergrad (4th Semester) passionate about AI, ML & Full-Stack Development  
+- 🧠 Currently exploring MLOps, Deep Learning, and Intelligent Systems  
+- 🛠️ Working on AI-powered travel assistant  
+- 💬 Let’s talk about AI, startups, or open-source  
+- 📫 Reach me: rochith.s.phutane10@gmail.com
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+### 🧠 AI/ML Libraries
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-6A5ACD?style=for-the-badge&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## 🧠 AI / Machine Learning Projects
+
+### 📌 Customer Churn Prediction  
+**Tools:** Python, Scikit-learn, Pandas, Matplotlib  
+🔹 Built a machine learning model for a telecom company with **88% accuracy**  
+🔹 Performed feature engineering, data visualization, and data cleaning  
+🔹 Evaluated multiple models (Logistic Regression, Random Forest)
+
+---
+
+### 📌 Image Classifier for Fashion Goods  
+**Tools:** Python, TensorFlow, Keras, NumPy  
+🔹 Created a **CNN model** on Fashion-MNIST with **92% validation accuracy**  
+🔹 Applied **data augmentation** to improve generalization  
+🔹 Integrated a **Flask UI** for image uploads and classification output
+
+---
+
+## 🌐 Web Development Projects
+
+### 📌 Full-Stack E-commerce Web App  
+**Tools:** React.js, Node.js, Express.js, MongoDB, JWT  
+🛒 Built a fully responsive shopping platform  
+🔐 Implemented **auth, product catalog, cart, orders**  
+🚀 Used **JWT** for secure user sessions, deployed on cloud
+
+---
+
+### 📌 Real-Time Chat Application  
+**Tools:** React.js, Node.js, Socket.IO, Express.js  
+💬 Developed a **real-time messaging platform** with WebSocket integration  
+👥 Features: **Chat rooms, Typing indicators, User list, Message history**  
+⚡ Seamless and low-latency communication via **Socket.IO**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rochith11&show_icons=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rochith11&theme=tokyonight&hide_border=true" height="170px"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rochith-s-phutane-919112297//" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rochith.s.phutane10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://rochith11.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
