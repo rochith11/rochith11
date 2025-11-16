@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 CSE Undergrad (4th Semester) passionate about AI, ML & Full-Stack Development  
+- 🎓 CSE Undergrad (5th Semester) passionate about AI, ML & Full-Stack Development  
 - 🧠 Currently exploring MLOps, Deep Learning, and Intelligent Systems  
 - 🛠️ Working on AI-powered travel assistant  
 - 💬 Let’s talk about AI, startups, or open-source  
@@ -68,21 +68,11 @@
 
 ---
 
-### 📌 Image Classifier for Fashion Goods  
+### 📌 Image Classifier for Plant Disease Detection 
 **Tools:** Python, TensorFlow, Keras, NumPy  
 🔹 Created a **CNN model** on Fashion-MNIST with **92% validation accuracy**  
 🔹 Applied **data augmentation** to improve generalization  
 🔹 Integrated a **Flask UI** for image uploads and classification output
-
----
-
-## 🌐 Web Development Projects
-
-### 📌 Full-Stack E-commerce Web App  
-**Tools:** React.js, Node.js, Express.js, MongoDB, JWT  
-🛒 Built a fully responsive shopping platform  
-🔐 Implemented **auth, product catalog, cart, orders**  
-🚀 Used **JWT** for secure user sessions, deployed on cloud
 
 ---
 
